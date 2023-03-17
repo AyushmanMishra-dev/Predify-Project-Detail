@@ -25,7 +25,7 @@ Many companies have created numerous products to solve this problem, but these p
 Because our website is free, no one will be hesitant to use it. In short, we are aiming for people from the middle and lower classes and rural areas. By filling the gap between hospitals and the general public and serving them with this creative strategy, we are aiming to reach roughly 50% of the middle-class Indian population by the next few years.
 This website will contribute to the accessibility and affordability of healthcare institutions and allow them to do a simple 2-minute heart disease diagnosis.
 
-My goal is to reduce the number of deaths from heart disease by nearly 70%.cause over 70
+My goal is to reduce the number of deaths from heart disease by nearly 70%.
 
 
 
